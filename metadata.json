@@ -1,0 +1,6 @@
+{
+  "name": "Guardian",
+  "description": "A calm, self-healing academic co-pilot that prevents students from missing deadlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
