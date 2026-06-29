@@ -1,5 +1,6 @@
 # 🛡️ Guardian
 ### Self-Healing Execution Copilot
+<img width="1893" height="823" alt="image" src="https://github.com/user-attachments/assets/09761489-b1f0-47c9-8df6-6c5a1c333ea9" />
 
 > **Recovery over reminders.**
 >
@@ -32,6 +33,8 @@ That's why Guardian is a **Self-Healing Execution Copilot**.
 # ✨ Core Features
 
 ## 🛡️ Recovery Engine
+<img width="1593" height="820" alt="image" src="https://github.com/user-attachments/assets/e13cd369-678e-41ee-92ff-f4c742e404bb" />
+
 
 When your schedule becomes unrealistic, Guardian automatically:
 
@@ -66,6 +69,8 @@ Transparent AI instead of black-box decisions.
 ---
 
 ## 📅 Adaptive Timeline
+<img width="1894" height="823" alt="image" src="https://github.com/user-attachments/assets/f7190058-9e18-4ea4-8fa0-a0459bf22d7c" />
+
 
 Guardian continuously maintains
 
@@ -113,6 +118,8 @@ Designed to reduce decision fatigue.
 ---
 
 ## 👁 Guardian Presence
+<img width="1893" height="831" alt="image" src="https://github.com/user-attachments/assets/24ce694b-d042-4bcd-a576-5ca79827d7fc" />
+
 
 Guardian behaves like a quiet digital companion.
 
